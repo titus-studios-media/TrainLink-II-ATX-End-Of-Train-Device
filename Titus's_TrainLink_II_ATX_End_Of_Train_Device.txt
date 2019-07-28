@@ -10,6 +10,8 @@ E:setAlpha(0)
 EOTDModel = "NG3 EOT"
 #[
 Find info on how to use this here: https://github.com/titus-studios-media/Wilma-Head-of-Train-Device
+
+E2 made by Titus Studios Media Group, https://titusstudiosmediagroup.github.io/
 ]#
     
 if(first() | dupefinished())
