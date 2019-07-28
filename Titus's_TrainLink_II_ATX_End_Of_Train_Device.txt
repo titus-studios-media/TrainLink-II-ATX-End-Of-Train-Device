@@ -8,6 +8,9 @@ E = entity()
 E:setAlpha(0)
 
 EOTDModel = "NG3 EOT"
+#[
+Find info on how to use this here: https://github.com/titus-studios-media/Wilma-Head-of-Train-Device
+]#
     
 if(first() | dupefinished())
 {     
